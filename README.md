@@ -48,7 +48,4 @@ The project relies on:
 - Evaluate==0.4.0 & ROUGE Score==0.1.2
 - TRL (installed from source)
 
-## License
-
-This project is licensed under the MIT License.
 
